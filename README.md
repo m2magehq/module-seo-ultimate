@@ -24,6 +24,7 @@ Key Features:
 - Business Information: Set up and display your business information.
 - Open Graph Support: Integrate Open Graph tags for improved social media sharing.
 - Twitter Card Support: Enable Twitter Card integration for enhanced Twitter sharing.
+
 Extension link: https://magehq.com/magento-2-rich-snippets.html
 
 Magento 2 Hreflang Tag Extension: Prevent Duplicate Content on Multi-Language Websites
@@ -32,6 +33,7 @@ Key Features:
 - Create Hreflang Tags for Each Store View: Specify hreflang tags for different store views to cater to various regions and languages.
 - Select Language and Country: Customize hreflang tags by selecting the language and country for each store view.
 - Enable Hreflang Tags for All Pages: Apply hreflang tags site-wide to ensure comprehensive coverage.
+
 Extension link: https://magehq.com/magento-2-hreflang-tag.html
 
 Magento 2 HTML Sitemap Extension: Comprehensive Website Overview
@@ -45,6 +47,7 @@ Key Features:
 - Additional Links: Add extra links to the HTML sitemap.
 - Exclude CMS Pages: Allow the admin to exclude certain CMS pages from the sitemap.
 - Third-Party Links: Integrate third-party links into the sitemap.
+
 Extension link: https://magehq.com/magento-2-html-sitemap.html
 
 Magento 2 Robots Meta Tag Extension: Control How Crawlers Index Your Website
@@ -53,6 +56,7 @@ Key Features:
 - Easy Enablement: Quickly enable the Robots Meta Tag extension.
 - Custom Meta Robot Tags: Customize meta robot tags for specific URLs to control indexing behavior.
 - Advanced Settings: Set NOINDEX, FOLLOW meta headers for specific CMS pages to manage visibility in search results.
+
 Extension link: https://magehq.com/magento-2-robots-meta-tag.html
 
 
@@ -65,6 +69,7 @@ Key Features:
 - Store View Customization: Generate separate sitemaps for each store view.
 - Priority and Frequency Settings: Set update priority and frequency for the Magento 2 sitemap.
 - Additional Links: Add extra links to the XML sitemap for comprehensive coverage.
+
 Extension link: https://magehq.com/xml-sitemap.html
 
 Magento 2 Lazy Load Extension: Enhance Performance by Reducing Loading Time
@@ -78,6 +83,7 @@ Key Features:
 - Placeholder Images: Add placeholder images to display before the actual images load.
 - Simple Exclusions: Easily skip lazy loading for images with specific classes.
 - Customizable Delay: Set the image loading delay time according to your preference.
+
 Extension link: https://magehq.com/magento-2-lazy-load.html
 
 Magento 2 Image Optimizer Extension: Enhance Website Performance by Optimizing Images
@@ -90,6 +96,7 @@ Key Features:
 - Manual Optimization: Manually optimize images as needed.
 - Optimization Tracking: Display a list of images that have been optimized.
 - Enhanced Performance: Reduce page load time and boost site performance.
+
 Extension link: https://magehq.com/magento-2-image-optimizer.html
 
 Magento 2 SEO Extension: Improve SEO and Boost Website Traffic
@@ -104,6 +111,7 @@ Key Features:
 - Page Analytics: Enable page analytics for performance insights.
 - Cross Linking: Enhance cross-linking to help Google understand and rank your website better.
 - SEO Reporting: Generate reports on duplicate meta issues, missing meta data, low word count, and 404 pages.
+
 Extension link: https://magehq.com/magento-2-seo.html
 
 Please go to [https://magehq.com/magento-2-frontend-cancel-order.html ](https://magehq.com/magento-2-seo-ultimate.html) for more details about the extension
