@@ -122,7 +122,7 @@ Key Features:
 
 Extension link: https://magehq.com/magento-2-seo.html
 
-Please go to [https://magehq.com/magento-2-frontend-cancel-order.html ](https://magehq.com/magento-2-seo-ultimate.html) for more details about the extension
+Please go to https://magehq.com/magento-2-seo-ultimate.html for more details about the extension
 
 Home Page https://magehq.com
 
@@ -130,8 +130,8 @@ List extension magento 2 https://magehq.com/magento-2-extensions.html
 
 List extension free magento 2 https://magehq.com/free-extensions.html
 
-Collection of Seo Management Extensions for Magento 2 [https://magehq.com/magento-2-extensions/order.html](https://magehq.com/magento-2-extensions/seo.html)
+Collection of Seo Management Extensions for Magento 2 https://magehq.com/magento-2-extensions/seo.html
 
-Related extension: [https://magehq.com/magento-2-order-editor.html and https://magehq.com/magento-2-store-locator.html](https://magehq.com/magento-2-follow-up-email.html)
+Related extension: https://magehq.com/magento-2-follow-up-email.html
 
-User Guide - Magento 2 SEO Ultimate extension: [https://magehq.com/helpdesk/userguide/store-pickup-with-locator](https://magehq.com/helpdesk/userguide/seo-ultimate)
+User Guide - Magento 2 SEO Ultimate extension: https://magehq.com/helpdesk/userguide/seo-ultimate
