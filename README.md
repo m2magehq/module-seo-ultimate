@@ -16,6 +16,7 @@ Rich Snippets / Hreflang Tag / HTML Sitemap / Robots Meta Tag / XML Sitemap / La
 
 Magento 2 Rich Snippets Extension: Boost Your Search Engine Rankings
 The Magento 2 Rich Snippets extension enhances your website's search engine rankings and increases traffic by adding rich snippets, breadcrumbs, ratings, prices, and more to your store's product listings in search results.
+
 Key Features:
 - Display Multiple Rich Snippets: Showcase product details like price, rating, and availability.
 - Easy Setup: Simple configuration for the Rich Snippets extension.
@@ -29,6 +30,7 @@ Extension link: https://magehq.com/magento-2-rich-snippets.html
 
 Magento 2 Hreflang Tag Extension: Prevent Duplicate Content on Multi-Language Websites
 The Magento 2 Hreflang Tag extension helps you avoid duplicate content issues in multi-regional and multi-language stores. It informs search engines like Google about the language variations of your pages, ensuring the appropriate page is displayed in search results.
+
 Key Features:
 - Create Hreflang Tags for Each Store View: Specify hreflang tags for different store views to cater to various regions and languages.
 - Select Language and Country: Customize hreflang tags by selecting the language and country for each store view.
@@ -38,6 +40,7 @@ Extension link: https://magehq.com/magento-2-hreflang-tag.html
 
 Magento 2 HTML Sitemap Extension: Comprehensive Website Overview
 The Magento 2 HTML Sitemap extension helps customers navigate your entire site easily. MageHQ recommends enabling HTML sitemaps, as this extension consolidates all your site links onto one page, enhancing the customer experience and boosting your search engine rankings.
+
 Key Features:
 - Generate Comprehensive Sitemaps: Create an HTML sitemap that includes products, categories, CMS pages, and additional links.
 - Customizable SEO Elements: Edit the title, meta description, and meta keywords of the HTML sitemap page.
@@ -52,6 +55,7 @@ Extension link: https://magehq.com/magento-2-html-sitemap.html
 
 Magento 2 Robots Meta Tag Extension: Control How Crawlers Index Your Website
 The Magento 2 Robots Meta Tag extension allows you to customize the robot meta tags for each page, giving you control over how Google and other search engines index and display your content in search results.
+
 Key Features:
 - Easy Enablement: Quickly enable the Robots Meta Tag extension.
 - Custom Meta Robot Tags: Customize meta robot tags for specific URLs to control indexing behavior.
@@ -62,6 +66,7 @@ Extension link: https://magehq.com/magento-2-robots-meta-tag.html
 
 Magento 2 XML Sitemap Extension: Optimize Google Crawlers' Access to Your Website
 The Magento 2 XML Sitemap extension enables you to generate XML sitemaps easily, enhancing communication of your site structure to search crawlers for better indexing.
+
 Key Features:
 - Comprehensive Sitemaps: Create XML sitemaps that include all links on your store.
 - Selective Exclusions: Exclude specific CMS links, product pages, or category pages from the XML sitemap.
@@ -74,6 +79,7 @@ Extension link: https://magehq.com/xml-sitemap.html
 
 Magento 2 Lazy Load Extension: Enhance Performance by Reducing Loading Time
 The Magento 2 Lazy Load extension enables lazy loading for images on your store, ensuring that images load only when they are scrolled into view. This reduces initial loading times and improves overall performance.
+
 Key Features:
 - Scroll-Triggered Loading: Load products as users scroll down the page.
 - Category Page Optimization: Enable lazy loading for images on category pages.
@@ -88,6 +94,7 @@ Extension link: https://magehq.com/magento-2-lazy-load.html
 
 Magento 2 Image Optimizer Extension: Enhance Website Performance by Optimizing Images
 The Magento 2 Image Optimizer extension reduces image sizes without compromising quality, leading to faster page loading times, improved user experience, and potential revenue growth.
+
 Key Features:
 - Comprehensive Image Optimization: Optimize all images across your website.
 - Automated Processes: Easily enable the scan and reindex process via Cron Job.
@@ -101,6 +108,7 @@ Extension link: https://magehq.com/magento-2-image-optimizer.html
 
 Magento 2 SEO Extension: Improve SEO and Boost Website Traffic
 The Magento 2 SEO extension enhances your store's SEO, increasing website traffic and giving you more control over your store's ranking in SERPs. It optimizes your store for better search visibility and overall performance.
+
 Key Features:
 - Custom H1 Tags: Enable custom H1 tags for category, CMS, and product pages.
 - Meta Tag Control: Add INDEX, NOFOLLOW meta tags in search results.
